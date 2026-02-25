@@ -1,2 +1,5 @@
 # Generated database (re-create by running migrate_csv_to_sqlite.py)
 ics_advisories.db
+
+# Python
+__pycache__/
