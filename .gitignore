@@ -3,3 +3,7 @@ ics_advisories.db
 
 # Python
 __pycache__/
+
+# Environment / secrets
+.env
+.env.*
